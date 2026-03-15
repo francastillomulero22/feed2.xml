@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel> 
+    <title>TecnoNoticias ASIR - Actualidad Tecnológica </title>
+    <link>https://francastillomulero22.github.io/rss</link>
+    <description>Canal RSS con las últimas 5 noticias sobre sistemas y redes. </description>
+    <copyright>CC 4.0 - BY-SA (Fran Castillo) </copyright>
+    <item> 
+       <title>Episodio 5: Seguridad en Servidores Apache</title>
+      <link>https://ejemplo.com/noticia5</link>
+      <description>Análisis de cabeceras de seguridad y hardening básico.</description>
+      <author>francastillomulero22@gmail.com (Fran Castillo)</author>
+      <pubDate>Mon, 20 May 2024 10:00:00 GMT</pubDate>
+      <category>Seguridad</category>
+      <enclosure url="https://ejemplo.com/audios/ep5.mp3" type="audio/mpeg" length="3500" />
+    </item>
+    <item>
+    <title>Episodio 4: Configuración de VLANs</title>
+      <link>https://ejemplo.com/noticia4</link>
+      <description>Tutorial práctico sobre segmentación de redes en switches gestionables.</description>
+     <author>francastillomulero22@gmail.com (Fran Castillo)</author>
+      <pubDate>Sun, 19 May 2024 12:00:00 GMT</pubDate>
+      <category>Redes</category>
+      <enclosure url="https://ejemplo.com/audios/ep4.ogg" type="audio/ogg" length="2800" />
+         </item>
+    <item> 
+        <title>Episodio 3: Docker vs Podman</title>
+      <link>https://ejemplo.com/noticia3</link>
+      <description>Comparativa de motores de contenedores para entornos de producción.</description>
+      <author>francastillomulero22@gmail.com (Fran Castillo)</author>
+      <pubDate>Sat, 18 May 2024 09:00:00 GMT</pubDate>
+      <category>Virtualización</category>
+      <enclosure url="https://ejemplo.com/audios/ep3.mp3" type="audio/mpeg" length="4200" />
+
+    </item>
+    <item>
+        <title>Episodio 2: Automatización con Ansible</title>
+      <link>https://ejemplo.com/noticia2</link>
+      <description>Cómo crear tus primeros playbooks para desplegar servicios.</description>
+      <author>francastillomulero22@gmail.com (Fran Castillo)</author>
+      <pubDate>Fri, 17 May 2024 18:30:00 GMT</pubDate>
+      <category>DevOps</category>
+      <enclosure url="https://ejemplo.com/audios/ep2.mp3" type="audio/mpeg" length="3100" />
+      <category>Software Libre</category>
+         </item> 
+    <item>
+       <title>Episodio 1: Bienvenida al canal ASIR</title>
+      <link>https://ejemplo.com/noticia1</link>
+      <description>Introducción a los contenidos que trataremos en este feed XML.</description>
+      <author>francastillomulero22@gmail.com (Fran Castillo)</author>
+      <pubDate>Thu, 16 May 2024 11:15:00 GMT</pubDate> 
+      <category>General</category>
+      <enclosure url="https://ejemplo.com/audios/ep1.ogg" type="audio/ogg" length="1200" /> 
+      <category>Sistemas Operativos</category>
+        </item>
+  
+
+
+
+</channel>
+</rss>
